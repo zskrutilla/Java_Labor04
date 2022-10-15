@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 package dunaujvarosiegyetem.labor04;
-
+//Teszt
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Optional;
